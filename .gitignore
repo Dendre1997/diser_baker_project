@@ -40,4 +40,6 @@ yarn-error.log*
 *.tsbuildinfo
 next-env.d.ts
 
-# password: EYTCNMcX7Z43WRAm6fBJ
+
+
+firebase.js

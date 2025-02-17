@@ -21,3 +21,6 @@ const auth = getAuth(app)
 // const analytics = getAnalytics(app);
 
 export { auth }
+
+
+// # password: EYTCNMcX7Z43WRAm6fBJ
